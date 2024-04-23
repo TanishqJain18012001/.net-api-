@@ -1,0 +1,7 @@
+C:\.net assignment\RestApi\RestApi\obj\Debug\net8.0\TableBooking.csproj.AssemblyReference.cache
+C:\.net assignment\RestApi\RestApi\obj\Debug\net8.0\TableBooking.GeneratedMSBuildEditorConfig.editorconfig
+C:\.net assignment\RestApi\RestApi\obj\Debug\net8.0\TableBooking.AssemblyInfoInputs.cache
+C:\.net assignment\RestApi\RestApi\obj\Debug\net8.0\TableBooking.AssemblyInfo.cs
+C:\.net assignment\RestApi\RestApi\obj\Debug\net8.0\TableBooking.csproj.CoreCompileInputs.cache
+C:\.net assignment\RestApi\RestApi\obj\Debug\net8.0\TableBooking.MvcApplicationPartsAssemblyInfo.cs
+C:\.net assignment\RestApi\RestApi\obj\Debug\net8.0\TableBooking.MvcApplicationPartsAssemblyInfo.cache
